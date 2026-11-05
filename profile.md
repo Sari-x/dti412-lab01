@@ -1,30 +1,30 @@
 # Student Developer Profile
 
 ## Personal Information
-- Full Name:
-- Student ID:
-- Program:
-- Academic Year:
+- Full Name:ThuTa Aung
+- Student ID: 240702404701
+- Program: DTI
+- Academic Year: 3years
 
 ## Technical Skills
-- Programming Languages:
+- Programming Languages: CSS,Python basic
 - Database Skills:
-- Web Development Skills:
+- Web Development Skills: HTML,CSS
 
 ## Personal Interests
-- Hobbies:
-- Favorite Technology:
+- Hobbies: Soccer,Swimming,games
+- Favorite Technology: Gaming PC,smart phone
 
 ## Career Goal
-Describe your career goal after graduation.
+- to become a professional software developer and creat useful apps.
 
 ## Learning Expectations
-What do you expect to learn from DTI412?
+- expect to improve my programming skills.
 
 ## Future Development Plan
-- Technical skills I want to improve:
-- Technologies I want to learn:
-- Dream Job Position:
+- Technical skills I want to improve: Python,database management and web development
+- Technologies I want to learn: Rest API and cloub computing
+- Dream Job Position: Security Engineer
 ## Semester Goals
 - Learn Django
 - Learn REST API Development
